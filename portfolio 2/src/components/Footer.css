@@ -1,0 +1,7 @@
+.footer {
+  background: var(--bg); border-top: 1px solid var(--border);
+  padding: 30px 5%; text-align: center;
+  color: var(--muted); font-size: 0.85rem;
+  display: flex; flex-direction: column; gap: 6px;
+}
+.footer span { color: var(--accent); }
